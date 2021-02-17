@@ -1,0 +1,53 @@
+body {
+    background-color: azure;
+}
+
+.top {
+    font-style: oblique;
+    text-align: center;
+    padding: 25px 25px 50px 25px;
+    margin: 30px;
+    background-color: #a762e7;
+    font-size: medium;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(29, 2, 128);
+    font-style: oblique;
+    font-weight: bold;
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+    color: solid black;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 15%;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+h2 {
+    margin-left: 125px;
+}
+
+.outer-div {
+    margin: 30px;
+    float: left;
+    position: absolute;
+    top: 270px;
+}
+
+.inner-div {
+    position: relative;
+    left: 500px;
+    margin: 10px;
+    text-align: center;
+}
